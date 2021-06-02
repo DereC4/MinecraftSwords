@@ -1,0 +1,3 @@
+displayName = Minecraft Swords
+author = DereC_
+version = 0.1
